@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "Internal alpha 0.1.1: adds Check for Updates\u2026 to the application menu; new installs get the complete local database at first launch; verified database export/import; package downloads and imports are hash-checked before writing; startup repairs orphaned preview caches and no longer blocks on a stalled migration history.",
-  "pub_date": "2026-09-04T20:40:58Z",
+  "version": "0.1.2",
+  "notes": "Internal alpha 0.1.2: expanded chat keeps new prompts and replies visible as messages finish loading, while preserving your position when reading older messages.",
+  "pub_date": "2026-09-04T22:17:59Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVE5Mc0QxTXkzR09hdzl6NTlvbXZvN2E0aHdrZHgyYkN5ZW9tUWNBakExanRoWmdnNTlHbGlNakVNdFNZcGk3OWxrMWI2VHZJQjdYdkk0NWpoNlR1SVhoMEc2OE8vb0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTU0NDEwCWZpbGU6SW9uaWMgRGVzaWduIFN5c3RlbS5hcHAudGFyLmd6CnpBcE9QeTMzeUtsTmNNeU01aVh4K2o5dFdXU3JRNWxvajlCb2d3RkZobnpLTjJJNUEvSnh1V1hqc2pJbXdMTXcyMENmRUczYzhUMmhYaHlReFBybURnPT0K",
-      "url": "https://github.com/poyi-is/ids-app/releases/download/internal-v0.1.1/Ionic-Design-System_0.1.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVE5Mc0QxTXkzR09RZVRVQTVPckluM3lRM1V0aHk3L01pR2hGU1ZDWFNqWnpCbU9JWGFiVVZyQXY0SkdjSUUrVFhHNHJnWjkwdGovU3JiZnhnQ3pJVXBFK2RQY0pIN2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTYwMTQwCWZpbGU6SW9uaWMgRGVzaWduIFN5c3RlbS5hcHAudGFyLmd6Ci9KZHZ5aGoxaHZQcXg5ekdKT1FyUGN3NFhud0RjMUhVSTVYcWhja3BWSEZ6VHNFdzJ5aDg0TElyZEw2NkJTRFZpeUc5ejlUUm4xL3pUMlV5WHM0ZER3PT0K",
+      "url": "https://github.com/poyi-is/ids-app/releases/download/internal-v0.1.2/Ionic-Design-System_0.1.2_aarch64.app.tar.gz"
     }
   }
 }
