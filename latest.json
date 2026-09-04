@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Initial internal ad-hoc macOS test build. This bootstraps the updater channel.",
+  "pub_date": "2026-09-04T16:49:13Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVE5Mc0QxTXkzR0pPYW8zenpNNk1HTWx3UGtZdEVNVFcyNU1wY0x0ekxRc05BdmZKZ3A2V3lwSytkK1kzTVY5STI5emFFS0J2WmNsZGxuWWxwUkJsWU5FdmpNUWZBb3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTQwNjM1CWZpbGU6SW9uaWMgRGVzaWduIFN5c3RlbS5hcHAudGFyLmd6CkRPNUJ6ZTJZZktkaW1UOHAvRFBNTFlnSkk5ZnhEYWUwVkZBMTV1NjVnOXB1V1Z4UzBOcC9DVkk4dkx3SG05Z2xqZUR0SVFRNFptbCtDUzFVTWVFOUJBPT0K",
+      "url": "https://github.com/poyi-is/ids-app/releases/download/internal-v0.1.0/Ionic-Design-System_0.1.0_aarch64.app.tar.gz"
+    }
+  }
+}
