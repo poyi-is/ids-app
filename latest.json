@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "Internal alpha 0.1.2: expanded chat keeps new prompts and replies visible as messages finish loading, while preserving your position when reading older messages.",
-  "pub_date": "2026-09-04T22:17:59Z",
+  "version": "0.1.3",
+  "notes": "Internal alpha 0.1.3: clearer component style editing, more focused inspector controls, and independent input text, spacing, shape, and border choices.",
+  "pub_date": "2026-09-10T17:35:58Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVE5Mc0QxTXkzR09RZVRVQTVPckluM3lRM1V0aHk3L01pR2hGU1ZDWFNqWnpCbU9JWGFiVVZyQXY0SkdjSUUrVFhHNHJnWjkwdGovU3JiZnhnQ3pJVXBFK2RQY0pIN2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTYwMTQwCWZpbGU6SW9uaWMgRGVzaWduIFN5c3RlbS5hcHAudGFyLmd6Ci9KZHZ5aGoxaHZQcXg5ekdKT1FyUGN3NFhud0RjMUhVSTVYcWhja3BWSEZ6VHNFdzJ5aDg0TElyZEw2NkJTRFZpeUc5ejlUUm4xL3pUMlV5WHM0ZER3PT0K",
-      "url": "https://github.com/poyi-is/ids-app/releases/download/internal-v0.1.2/Ionic-Design-System_0.1.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVE5Mc0QxTXkzR0k2bFdtQUZKdmdjbUdXYkY2MzdiOExvRGlWN1JXNVJzZ2c4RXhLQklZQkFJZGZmWUZ4Z2dLaHR2QjBWdVlLQkZXbkNEWXh1cG9LZVRRVVJocUl5bWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDYxNjQ5CWZpbGU6SW9uaWMgRGVzaWduIFN5c3RlbS5hcHAudGFyLmd6Cjk3RUtaUUxSMmRnUGphYmpCWHprdTNVd0ZoYVEzV2todVJVZm14bmNYMGpHZSt1NUJmK0lLS2MvZDFhMnZOa2E0WE5pa3V5VWREOFhEWm83ODd0eUNBPT0Ke",
+      "url": "https://github.com/poyi-is/ids-app/releases/download/internal-v0.1.3/Ionic-Design-System_0.1.3_aarch64.app.tar.gz"
     }
   }
 }
