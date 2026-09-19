@@ -1,11 +1,11 @@
 {
-  "version": "0.1.5",
-  "notes": "Internal alpha 0.1.5: the assistant can save frames as patterns and propose token edits for your approval, every account now has a credit balance for AI usage (no limits applied yet), local agent settings list the models your agents actually offer, the assistant keeps its place across a conversation, Studio matches the approved visual system, and refused cloud requests now say what actually happened instead of blaming the local AI.",
-  "pub_date": "2026-09-18T16:12:32Z",
+  "version": "0.1.6",
+  "notes": "Internal alpha 0.1.6: images attached on the Claude Code lane now reach the assistant, the assistant can pin, layer and wire up elements on newly created frames, the Date Picker pages no longer crash, a focused frame starts below its control bar with working side panels and a dedicated preview row, variant dropdowns are readable in light mode, questions with more than four options show every choice, and usage-limit refusals are reported as such.",
+  "pub_date": "2026-09-19T02:12:53Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVE5Mc0QxTXkzR0F6YnVmNkRwTWdwaHYrbUpnSjMxNXNUcFl0d2p3c2toQmd1SjNaYkVTM2k1T3RHakRZc3Z1ZEd5dXoxU0tHTG1QTUNtQ29EYXE1SWJIakk4d1k4OUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzQ3OTA2CWZpbGU6SW9uaWMgRGVzaWduIFN5c3RlbS5hcHAudGFyLmd6CkUydVVnOFN2eEZqdmJ6OEhUdHVaK3NJSnY2d3pQR213ZStPZDRvWHZyV1V5ZnAzMStLdjZSVnAzSzZMNUVYTTlDSExqU1Zka3MwM1dUMmpaM3N5ckR3PT0K",
-      "url": "https://github.com/poyi-is/ids-app/releases/download/internal-v0.1.5/Ionic-Design-System_0.1.5_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVE5Mc0QxTXkzR0VKVVNhTGdPdDR1UGM4bm5UV2VaS0xVZjRHbE03QVVnekl3blNTbEo4d05pOTRXZnIwVlV1NzNUeWhaRDJYSi9GRTZIcHZaMkFnd1ByYU9zZkV3dGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzgzOTA1CWZpbGU6SW9uaWMgRGVzaWduIFN5c3RlbS5hcHAudGFyLmd6ClFUSjZ5NUJrM0RwYXFSV3V5Vld3MjJObVZOUDNsdjRWSFBCaytVRVltdEVtN0pTRHhONXJ6R0U4ekhDRkxsOGpTVXRrcHFjSW1VcVJYY0R6MFVYVkJRPT0K",
+      "url": "https://github.com/poyi-is/ids-app/releases/download/internal-v0.1.6/Ionic-Design-System_0.1.6_aarch64.app.tar.gz"
     }
   }
 }
